@@ -48,5 +48,5 @@ To add or update organization-wide defaults:
 ## Learn More
 
 - [About default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
-- [Creating a .github repository](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+- [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
 - [Workflow templates for organizations](https://docs.github.com/en/actions/learn-github-actions/creating-workflow-templates-for-your-organization)
